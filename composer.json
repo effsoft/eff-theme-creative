@@ -16,6 +16,7 @@
 
   },
   "config": {
+    "vendor-dir": "../vendor/eff-theme-creative",
     "process-timeout": 1800,
     "fxp-asset": {
       "enabled": false
